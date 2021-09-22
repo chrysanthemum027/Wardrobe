@@ -1,0 +1,11 @@
+:root{
+  --lightest: #e8f0f2;
+  --lightBlue: #a2dbfa;
+  --SkyBlue: #39a2db;
+  --darkest: #053742;
+}
+
+body{
+  font-family: 'Sora', sans-serif !important;
+  background-color: #e8f0f2 !important;
+}
